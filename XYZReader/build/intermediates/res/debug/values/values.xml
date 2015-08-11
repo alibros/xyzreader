@@ -48,6 +48,9 @@
     <color name="dim_foreground_disabled_material_light">#80323232</color>
     <color name="dim_foreground_material_dark">#ffbebebe</color>
     <color name="dim_foreground_material_light">#ff323232</color>
+    <!-- From: file:/Users/Ali/Documents/Udacity/xyzreader/XYZReader/src/main/res/values/colors.xml -->
+    <eat-comment/>
+    <color name="drkgray">#161616</color>
     <!-- From: file:/Users/Ali/Documents/Udacity/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/22.2.0/res/values/values.xml -->
     <eat-comment/>
     <color name="error_color">#FFDD2C00</color>
@@ -65,7 +68,7 @@
     <color name="link_text_material_light">@color/material_deep_teal_500</color>
     <!-- From: file:/Users/Ali/Documents/Udacity/xyzreader/XYZReader/src/main/res/values/colors.xml -->
     <eat-comment/>
-    <color name="ltgray">#ffe0e0e0</color>
+    <color name="ltgray">#333333</color>
     <!-- From: file:/Users/Ali/Documents/Udacity/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml -->
     <eat-comment/>
     <color name="material_blue_grey_800">#ff37474f</color>
