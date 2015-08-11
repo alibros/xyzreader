@@ -50,7 +50,7 @@ public class ArticleDetailFragment extends Fragment implements
     private long mItemId;
     private View mRootView;
 
-    @Bind(R.id.backdrop) ImageView mPhoto;
+    @Bind(R.id.thumbnail ) ImageView mPhoto;
     @Bind(R.id.toolbar) Toolbar mToolbar;
     @Bind(R.id.subtitle) TextView mSubTitle;
     @Bind(R.id.desc) TextView mDesc;

@@ -5,13 +5,13 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
-
     <android.support.design.widget.AppBarLayout
         android:id="@+id/appbar"
         android:layout_width="match_parent"
-        android:layout_height="@dimen/appbarlayout_height"
+        android:layout_height="@dimen/appbar_height"
         android:fitsSystemWindows="true">
 
+        <!--design borrowed from https://github.com/mmazzarolo/xyzreader-->
         <android.support.design.widget.CollapsingToolbarLayout
             android:id="@+id/collapsing_toolbar"
             android:layout_width="match_parent"
@@ -24,7 +24,7 @@
             app:expandedTitleMarginStart="@dimen/collapsingtoolbar_expanded_title_margin_start">
 
             <ImageView
-                android:id="@+id/backdrop"
+                android:id="@+id/thumbnail"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:scaleType="centerCrop"
