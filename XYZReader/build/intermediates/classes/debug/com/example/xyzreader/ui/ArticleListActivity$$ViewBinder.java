@@ -12,8 +12,8 @@ public class ArticleListActivity$$ViewBinder<T extends com.example.xyzreader.ui.
     target.mSwipeRefreshLayout = finder.castView(view, 2131361898, "field 'mSwipeRefreshLayout'");
     view = finder.findRequiredView(source, 2131361899, "field 'mRecyclerView'");
     target.mRecyclerView = finder.castView(view, 2131361899, "field 'mRecyclerView'");
-    view = finder.findRequiredView(source, 2131361901, "field 'mToolbar'");
-    target.mToolbar = finder.castView(view, 2131361901, "field 'mToolbar'");
+    view = finder.findRequiredView(source, 2131361900, "field 'mToolbar'");
+    target.mToolbar = finder.castView(view, 2131361900, "field 'mToolbar'");
   }
 
   @Override public void unbind(T target) {

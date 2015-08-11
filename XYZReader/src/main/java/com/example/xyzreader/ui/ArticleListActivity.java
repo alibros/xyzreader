@@ -53,7 +53,6 @@ public class ArticleListActivity extends AppCompatActivity implements
         getSupportActionBar().setDisplayHomeAsUpEnabled(false);
         getSupportActionBar().setDisplayShowTitleEnabled(false);
 
-        final View toolbarContainerView = findViewById(R.id.toolbar_container);
         getLoaderManager().initLoader(0, null, this);
 
         if (savedInstanceState == null) {
