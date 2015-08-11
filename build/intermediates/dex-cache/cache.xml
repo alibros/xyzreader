@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Ali/Documents/Udacity/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/Users/Ali/Documents/Udacity/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-7f76c409825e3a5f229914685dc42232440966bf.jar" />
+    </item>
+    <item
+        jar="/Users/Ali/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp-urlconnection/1.6.0/375c2206eb7e52976955d0f8737be5e0ec9cf667/okhttp-urlconnection-1.6.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="375c2206eb7e52976955d0f8737be5e0ec9cf667">
+        <dex dex="/Users/Ali/Documents/Udacity/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/okhttp-urlconnection-1.6.0-206588b30454d4b3a1fcab27c94168215106fb5e.jar" />
+    </item>
+    <item
+        jar="/Users/Ali/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.3.2/d6b7f0093cec6c9faf65dbfd6a6a345d0ed25e27/picasso-2.3.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d6b7f0093cec6c9faf65dbfd6a6a345d0ed25e27">
+        <dex dex="/Users/Ali/Documents/Udacity/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/picasso-2.3.2-98847e13608a31d6c86f4ad533c2cfd371b50b67.jar" />
+    </item>
+    <item
+        jar="/Users/Ali/Documents/Udacity/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/cardview-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="11842de6a309c447b3a3d60d73ad637a87c58994">
+        <dex dex="/Users/Ali/Documents/Udacity/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-ef15b495c7f5fe443ce942b9e96fe305c6fc88d0.jar" />
+    </item>
+    <item
+        jar="/Users/Ali/Documents/Udacity/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7f9cca1caa023a880b00c382bcc5c90245ae4895">
+        <dex dex="/Users/Ali/Documents/Udacity/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-d7e812ef99a0f1db8c3fe10f7e76d99eaa281f61.jar" />
+    </item>
+    <item
+        jar="/Users/Ali/Documents/Udacity/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="def3eff2b7b4774d96ae15b07b3fc0111edbfe24">
+        <dex dex="/Users/Ali/Documents/Udacity/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-e6eec33d389f8a9292ca2a05dd575bd9eb0c1303.jar" />
+    </item>
+    <item
+        jar="/Users/Ali/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.2.4/a60a5e993c98c864010053cb901b7eab25306568/gson-2.2.4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="/Users/Ali/Documents/Udacity/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/gson-2.2.4-017138d54af1becdc08ba6e8d53122996e0a6b58.jar" />
+    </item>
+    <item
+        jar="/Users/Ali/Documents/Udacity/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/22.2.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="/Users/Ali/Documents/Udacity/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-0c8ca2df3b073c24a60f81f38574d04c2a3e97f2.jar" />
+    </item>
+    <item
+        jar="/Users/Ali/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/1.6.0/e32c6b4bee8b61f0de12b337c48df0f5df8caccc/okhttp-1.6.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e32c6b4bee8b61f0de12b337c48df0f5df8caccc">
+        <dex dex="/Users/Ali/Documents/Udacity/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/okhttp-1.6.0-c65c27a08e47b9fae4512c374dd6d83f05ae3b56.jar" />
+    </item>
+    <item
+        jar="/Users/Ali/Documents/Udacity/xyzreader/XYZReader/libs/volley.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="/Users/Ali/Documents/Udacity/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/volley-9dcecec37db15d887aff55de4386ef91ce145da6.jar" />
+    </item>
+    <item
+        jar="/Users/Ali/Documents/Udacity/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/Ali/Documents/Udacity/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-2862e9de6716b1370a68f6d60cae990a45c9330f.jar" />
+    </item>
+    <item
+        jar="/Users/Ali/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/7.0.0/f1e24ac977505d1fdcabadaa5be1f41dc11c4286/butterknife-7.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f1e24ac977505d1fdcabadaa5be1f41dc11c4286">
+        <dex dex="/Users/Ali/Documents/Udacity/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/butterknife-7.0.0-d1bb48b541d26be9e8bd464494b7766bf2693037.jar" />
+    </item>
+    <item
+        jar="/Applications/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Users/Ali/Documents/Udacity/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-21d9ee13e72d1722eae192654acd19ca53c2fe66.jar" />
+    </item>
+    <item
+        jar="/Users/Ali/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/1.6.0/39a9e4b49ded46aa1b67d492fe287c4cebcd815c/retrofit-1.6.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="39a9e4b49ded46aa1b67d492fe287c4cebcd815c">
+        <dex dex="/Users/Ali/Documents/Udacity/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/retrofit-1.6.0-8ff3b8e3dc7f4c5fff74ed170a9eb665c0201564.jar" />
+    </item>
+    <item
+        jar="/Users/Ali/Documents/Udacity/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/palette-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="285506e1cf9d5a66878e2aab3884b3427f8734e9">
+        <dex dex="/Users/Ali/Documents/Udacity/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-348343cd383deb1fb2ffd2074a49513a5a9c6c6d.jar" />
+    </item>
+    <item
+        jar="/Users/Ali/Documents/Udacity/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.2.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5b37cf49773f7f17aca9830efd3053b0cac56728">
+        <dex dex="/Users/Ali/Documents/Udacity/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-f3d309288013ae0d2b987aba06de06eb8809b906.jar" />
+    </item>
+    <item
+        jar="/Users/Ali/Documents/Udacity/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/Ali/Documents/Udacity/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-33b8ec780aef382faecfcbe48b0d75ded43c6763.jar" />
+    </item>
+
+</items>
