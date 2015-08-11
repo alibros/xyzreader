@@ -329,7 +329,7 @@
     <integer name="cancel_button_image_alpha">127</integer>
     <!-- From: file:/Users/Ali/Documents/Udacity/xyzreader/XYZReader/src/main/res/values/macro_layout.xml -->
     <eat-comment/>
-    <integer name="list_column_count">2</integer>
+    <integer name="list_column_count">1</integer>
     <!-- From: file:/Users/Ali/Documents/Udacity/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/22.2.0/res/values/values.xml -->
     <eat-comment/>
     <integer name="snackbar_text_max_lines">2</integer>
